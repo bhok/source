@@ -79,4 +79,4 @@ for the build/test scripts.
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
 
-See https://github.com/dollarcoin/QA/ for how to create a test plan.
+See https://github.com/dollarcoins/QA/ for how to create a test plan.
